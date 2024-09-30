@@ -4,7 +4,6 @@ A New Flutter Project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
 This project is a starting point for a Flutter application.
 <img src="gif/weather.gif" style="width: 300px; border-radius: 15px;">
